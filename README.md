@@ -201,3 +201,8 @@ sparkle - анимация иконки на кнопке
 MIT License - используй свободно!
 🌟 Автор
 Создано с ❤️ для вдохновения каждый день
+
+
+
+
+Ссылка на презентацию    https://www.canva.com/design/DAG71qGaH4o/zLdXYr1P0ZsBlpn6x363uQ/edit?utm_content=DAG71qGaH4o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
