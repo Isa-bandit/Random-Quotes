@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Генератор цитат</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="background">
+        <div class="shape"></div>
+        <div class="shape"></div>
+        <div class="shape"></div>
+    </div>
+    
+    <div class="container">
+        <div class="header">
+            <h1>💭 Генератор мудрости</h1>
+            <p class="subtitle">Вдохновляйтесь великими умами</p>
+        </div>
+        
+        <div class="quote-card">
+            <div class="quote-icon">❝</div>
+            <div class="quote-box" id="quoteBox">
+                <p class="loading">
+                    <span class="loader"></span>
+                    Нажмите кнопку для загрузки цитаты
+                </p>
+            </div>
+        </div>
+        
+        <div class="button-container">
+            <button id="newQuoteBtn" class="quote-btn" onclick="getNewQuote()">
+                <span class="btn-text">Новая цитата</span>
+                <span class="btn-icon">✨</span>
+            </button>
+        </div>
+    </div>
+
+    <script src="index.js"></script>
+</body>
+</html>
